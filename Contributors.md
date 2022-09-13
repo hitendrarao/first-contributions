@@ -1187,4 +1187,5 @@
 - [Cj3 vipinsingh](https://github.com/534118306)
 - [Erman Celik](https://github.com/celikerman)
 - [YasanLakmalH](https://github.com/YasanLakmalH)
+- [Hitendra Singh](https://github.com/hitendrarao)
 <!-- prettier-ignore-end -->
